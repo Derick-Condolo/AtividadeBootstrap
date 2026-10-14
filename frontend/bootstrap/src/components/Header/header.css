@@ -1,0 +1,101 @@
+/* Header */
+header{
+    width: 100%;
+    height: auto;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #676767;
+    color: #ffffff;
+    font-family: "Montserrat",sans-serif;
+    font-weight: lighter;
+    flex-direction: row;
+  }
+  
+  .nav-part1{
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+  }
+  
+  
+  .title-bar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 8%;
+    gap: 7px;
+  }
+  .logotype{
+    width: 60px;
+    height: 40px;
+    margin-right: 20px;
+    margin-top: 10%;
+  }  
+  .logotype:hover{
+    transform: scale(1.15);
+    transition: 100ms linear;
+  }
+  .title{
+    font-size: 25px;
+    margin-top: 13px;
+    
+  }
+  
+  .nav-options{
+    display: flex;
+    flex-direction: row;
+    margin-top: 17px;
+  }
+  .n-option{
+    margin-top: 1.2%;
+    list-style: none;
+    text-decoration: none;
+    margin-right: 50px;
+  }
+  .n-option a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+  .n-option:hover{
+    transform: scale(1.15);
+    transition: 100ms linear;
+  }
+  
+  .nav-part2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-right: 3%;
+  }
+  .research{
+    background-color: #676767;
+    border: none;
+  }
+  .search-button{
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+  }
+  .research:hover{
+    transform: scale(1.15);
+    transition: 100ms linear;
+  }
+  .login{
+    border: 2.5px solid #676767;
+    background-color: blue;
+    color: #ffffff;
+    width: 75px;
+    height: 40px;
+    font-family: "Montserrat",sans-serif;
+  }
+  .login a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  .login:hover{
+    transform: scale(1.15);
+    transition: 100ms linear;
+  }
