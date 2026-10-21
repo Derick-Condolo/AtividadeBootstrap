@@ -1,0 +1,34 @@
+footer{
+    width: 100%;
+    height: 150px;
+    position: fixed;
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    gap: 50px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #676767;
+    color: #ffffff;
+    font-family: "Montserrat",sans-serif;
+    flex-direction: row;
+    top: 84%;
+    
+  }
+  
+  .redes{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    text-align: left;
+    margin-left: 5%;
+    h3{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    p{
+        margin-bottom: 5px;
+    }
+    b{
+        font-weight: 600;
+    }
+  }

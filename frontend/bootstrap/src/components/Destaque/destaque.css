@@ -1,0 +1,20 @@
+.banner{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #ffffff;
+    color: #ffff;
+    font-weight: bold;
+
+    margin-top: 3rem;
+    margin-bottom: 10rem;
+}
+
+.destaque-img{
+    margin-left: 21%;
+    margin-top: 4px;
+    width: 55%;
+}

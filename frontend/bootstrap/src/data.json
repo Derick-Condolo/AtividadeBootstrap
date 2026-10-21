@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Xbox Series X 1TB Carbon Black",
+        "short-desc": "Experimente o console mais poderoso da família Xbox!",
+        "descricao": "Com 1TB de armazenamento, é garantia de espaço suficiente para se divertir até o dia acabar. Além disso, seu processador com suporte nativo a ray-tracing garante gráficos incríveis!",
+        "preco": 4999.99,
+        "estoque": 2021
+    },
+    {
+        "id": 2,
+        "name": "",
+        "short-desc": "",
+        "descricao": "",
+        "preco": "",
+        "estoque": ""
+    },
+    {
+        "id": 3,
+        "name": "",
+        "short-desc": "",
+        "descricao": "",
+        "preco": "",
+        "estoque": ""
+    },
+    {
+        "id": 4,
+        "name": "",
+        "short-desc": "",
+        "descricao": "",
+        "preco": "",
+        "estoque": ""
+    },
+    {
+        "id": 5,
+        "name": "",
+        "short-desc": "",
+        "descricao": "",
+        "preco": "",
+        "estoque": ""
+    },
+    {
+        "id": 6,
+        "name": "",
+        "short-desc": "",
+        "descricao": "",
+        "preco": "",
+        "estoque": ""
+    },
+    {
+        "id": 7,
+        "name": "",
+        "short-desc": "",
+        "descricao": "",
+        "preco": "",
+        "estoque": ""
+    },
+    {
+        "id": 8,
+        "name": "",
+        "short-desc": "",
+        "descricao": "",
+        "preco": "",
+        "estoque": ""
+    }
+]
